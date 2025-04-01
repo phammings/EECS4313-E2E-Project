@@ -1,0 +1,27 @@
+{
+  "name": "e-commerce-e2e-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:whatsNew": "npx cypress run --spec cypress/e2e/tests/whatsNew.cy.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/tahmid888/E-Commerce-E2E-Automation.git)"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cypress/code-coverage": "^3.13.12",
+    "babel-plugin-istanbul": "^7.0.0",
+    "cypress": "^13.17.0",
+    "cypress-xpath": "^2.0.1",
+    "nyc": "^17.1.0"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "openai": "^4.87.2"
+  }
+}

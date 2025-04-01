@@ -1,0 +1,22 @@
+{
+  "message": {
+    "titleMessage": "New Luma Yoga Collection",
+    "addToCartMessage": "You added Echo Fit Compression Short to your ",
+    "purchaseMessage": "Thank you for your purchase!"
+
+  },
+  "shippingInfo":{
+    "email": "ryantesting4313@gmail.com",
+  "name": {
+  "firstName": "Ryan",
+  "lastName": "Testing"
+},
+  "company": "York University",
+  "streetAddress": "100 Keele Street",
+  "city": "Toronto",
+  "postalCode": "M3L1SX5",
+  "telephone": "4165555555"
+
+  }
+  
+}
